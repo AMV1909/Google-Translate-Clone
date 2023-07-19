@@ -34,4 +34,4 @@ In the project directory, you can run:
 
 ## Deployment
 
-[Google Translate Clone](https://amv1909.github.io/google-translate-clone/)
+[Google Translate Clone](https://amv1909.github.io/Google-Translate-Clone/)
