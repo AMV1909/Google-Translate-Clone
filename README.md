@@ -21,6 +21,16 @@ This is a clone of Google Translate. It is a simple web application that allows 
 -   [React](https://reactjs.org/): A JavaScript library for building user interfaces.
 -   [Bootstrap](https://getbootstrap.com/): A CSS framework directed at responsive, mobile-first front-end web development.
 -   [Open AI API](https://openai.com/): The API of GPT, a neural network trained to write human-like text by completing sentences.
+-   [Vitest](https://vitest.dev): A tool for testing your website's accessibility.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+-   `npm run dev`: Runs the app in the development mode.
+-   `npm run build`: Builds the app for production to the `dist` folder.
+-   `npm run test`: Launches the test runner.
+-   `npm run deploy`: Deploys the app to GitHub Pages.
 
 ## Deployment
 
